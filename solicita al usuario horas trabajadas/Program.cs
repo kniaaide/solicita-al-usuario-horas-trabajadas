@@ -1,7 +1,4 @@
-﻿//Solicitar al usuario la cantidad de horas trabajadas y el costo que se paga por hora. Y realizar los siguiente calculosSi la persona gana menos de 1000 se le seumará un subsidio de 200.Si la persona gana entre 1001 y 2000 se le cobrará un impuestro del 5%.Si la persona gana entre 2001 y 4000 se le cobrará un impuestro del 15%
-//.Si la persona gana entre 4001 y 6000 se le cobrará un impuestro del 18%
-//.Si la persona gana entre 6001 y 10000 se le cobrará un impuestro del 23%
-//.Si la persona gana mas de 10000 se le cobrará un impuestro del 25%
+
 using System;
 class Program
 {
